@@ -28,8 +28,7 @@ with open(sys.argv[1],'r') as f1:
 print("word count in file = ",count)
 ```
 ### OUTPUT:
-
-
+![5b](https://user-images.githubusercontent.com/121608770/215397959-2f7c238c-ff11-4287-998e-52fb84814411.jpg)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
